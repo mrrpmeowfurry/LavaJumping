@@ -1,0 +1,9 @@
+name: LavaJumping
+description: $description
+version: '${version}'
+
+main: dev.mrrpmeowfurry.lavajumping.LavaJumping
+api-version: '1.21.11'
+load: POSTWORLD
+
+authors: [ mrrpmeowfurry ]
